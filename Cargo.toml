@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Your Name <isakkhar@gmail.com>"]
 description = "Decentralized KYC/AML Verification Network"
 license = "MIT"
-repository = "https://github.com/isakkhar/kyc-network"
+repository = "https://github.com/isakkhar/KYC_AML-Verification-Network"
 
 [dependencies]
 tokio = { version = "1.0", features = ["full"] }
