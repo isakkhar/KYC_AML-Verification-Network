@@ -74,7 +74,7 @@ kyc\_aml\_verification/
 
 ```bash
 # Clone and enter project
-git clone https://github.com/your-org/kyc-aml-verification.git
+git clone https://github.com/isakkhar/kyc-aml-verification.git
 cd kyc-aml-verification
 
 # Build
