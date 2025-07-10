@@ -114,9 +114,3 @@ let token = storage.get("user:alice").await?;
 
 ---
 
-## 📜 License
-
-MIT License
-See [LICENSE](./LICENSE) for more information.
-
-
